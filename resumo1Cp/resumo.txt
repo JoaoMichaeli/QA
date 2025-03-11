@@ -1,0 +1,43 @@
+GOVERNANÇA DE TI E QUALIDADE DE SOFTWARE
+
+	Métricas e estimativas de software (CMMi, MPS-br).
+
+	Modelos de inspeção e testes (BDD, TDD, Scrum).
+
+	Gerenciamento do ciclo de vida do software com métricas quantitativas.
+
+	Arquitetura e governança utilizando TOGAF-ADM, COBIT e normas ISO.
+
+	Ferramentas para controle de qualidade (APF, JUnit, Azure Boards, Source Monitor, Selenium, JMeter).
+
+	Metodologias ágeis e estimativas para projetos de software e IA.
+
+	Critérios de certificação e auditoria na área de testes e qualidade.
+
+
+
+MODELO FLEKS - VISÃO GERAL
+
+	Gestão Lean: otimização de processos, redução de desperdícios e melhoria contínua.
+
+	Abordagem Preditiva: previsibilidade e planejamento detalhado.
+
+	Abordagem Adaptativa: flexibilidade e adaptação contínua.
+
+	Modelo Híbrido: integração das abordagens para criar valor sustentável.
+
+	Framework FLEKS: estrutura organizacional com Escritório de Gestão de Valor (EGV), Operação e Transformação 	do Negócio.
+
+
+
+MODELO FLEKS - GUIA COMPLETO
+
+	Princípios Lean e sua aplicação na gestão de portfólios, projetos e produtos.
+
+	Abordagens Preditiva, Adaptativa e Híbrida para gerenciamento de iniciativas.
+
+	Criação de valor e métricas de desempenho (medidas quantitativas e qualitativas).
+
+	Estrutura FLEKS: papéis, responsabilidades e eventos de gestão (planejamento, coordenação, revisão e 	retrospectiva).
+
+	Filosofia de Liderança FLEKS, baseada em comunicação, integração, flexibilidade e pessoas.
