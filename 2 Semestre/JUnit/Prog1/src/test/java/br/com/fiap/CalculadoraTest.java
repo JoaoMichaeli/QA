@@ -8,7 +8,7 @@ public class CalculadoraTest {
     private Calculadora calculadora;
 
     @BeforeEach
-    public void setUp(){
+    public void init(){
         calculadora = new Calculadora();
     }
 
@@ -18,7 +18,7 @@ public class CalculadoraTest {
         int b = 4;
         int result = calculadora.somar(a,b);
 
-        assertEquals(2, result);
+        assertEquals(9, result);
     }
 
     @Test
